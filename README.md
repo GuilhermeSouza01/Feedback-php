@@ -1,6 +1,7 @@
 <h1 id="title" align="center">PHP Feedback</h1>
 
-<p id="description">Este projeto tem como objetivo aprimorar meus conhecimentos em PHP. Consistindo em uma aplicação onde os usuarios possam avaliar algum produto ou plataforma.</p>
+<p id="description">This project aims to improve my knowledge in PHP.
+Consisting of an application where users can evaluate any product or platform.</p>
 
 <h2>Project Screenshots:</h2>
 <h3 align="center">Home Page</h3>
